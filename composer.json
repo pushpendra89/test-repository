@@ -1,0 +1,6 @@
+{
+    "require": {
+    
+        "pushpendra89/test-repository",:"dev-master"
+    }
+}
